@@ -1,0 +1,8 @@
+{
+  "name": "jonas/alura-solid",
+  "autoload": {
+    "psr-4": {
+      "Alura\\Solid\\": "src/"
+    }
+  }
+}
